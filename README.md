@@ -1,1 +1,1 @@
-# B2B Ecommerce Fraud: Case Study
+# salary analysis
